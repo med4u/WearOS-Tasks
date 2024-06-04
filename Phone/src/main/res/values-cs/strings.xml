@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_denied">Chybějící oprávnění</string>
+    <string name="app_name">WearOS Úkoly</string>
+    <string name="app_will_not_work">Tato aplikace nebude fungovat bez oprávnění pro čtení a zápis pro aplikaci Tasks.org</string>
+    <string name="everything_looks_fine">Všechno vypadá dobře. Zkuste použít aplikaci na vašich hodinkách.</string>
+</resources>

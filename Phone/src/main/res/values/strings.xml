@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WearOS Tasks</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="app_will_not_work">This application will not work without read and write permissions to Tasks.org app.</string>
+    <string name="everything_looks_fine">Everything looks fine. Try use the app on the watch.</string>
+</resources>

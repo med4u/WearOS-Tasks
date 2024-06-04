@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="today_tasks">Dnešní úkoly:</string>
+    <string name="app_name">Úkoly</string>
+    <string name="all_done_nothing_to_do">Všechno hotovo!</string>
+    <string name="loading">Načítání...</string>
+</resources>

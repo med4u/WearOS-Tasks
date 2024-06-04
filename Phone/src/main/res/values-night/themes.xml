@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WearOSTasks" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="android:colorBackground">#000000</item>
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:colorPrimary">#000000</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:colorAccent">#000000</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:colorPrimaryDark">#000000</item>
+    </style>
+</resources>

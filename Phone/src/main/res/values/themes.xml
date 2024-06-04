@@ -1,0 +1,7 @@
+<resources>
+    <style name="Base.Theme.WearOSTasks" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:colorPrimaryDark">#000000</item>
+    </style>
+
+    <style name="Theme.WearOSTasks" parent="Base.Theme.WearOSTasks" />
+</resources>

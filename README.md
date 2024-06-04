@@ -4,15 +4,15 @@ This repository contains unofficial implementation of application for WearOS, th
 
 ## What it can do
 
-Right now it can list your today's uncompleted tasks. After tap on task it will be set as completed.
+Right now it can list your today's uncompleted tasks. After tap on task, it will be marked as completed.
 
 ## Note
 
-**Only tasks synchronized via DAVx5 is supported** right now, other tasks will not show up in the app.
+**Only tasks synchronized via DAVx5 are supported** right now, other tasks will not show up in the app.
 
-**WearOS 3** and newer is supported.
+**WearOS 3** and newer.
 
-**Android 11** and newer is supported.
+**Android 11** and newer.
 
 ## Warning
 
